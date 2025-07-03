@@ -9,8 +9,9 @@ subprocess
 typer
 hashlib
 
-TEST EDİLEN PLATFORM:
+# TEST EDİLEN PLATFORMLAR:
 WSL 1
+Ubuntu 22.02
 
 # SCREENSHOTS:
 ![alt text](screenshots/help.png "Title")
